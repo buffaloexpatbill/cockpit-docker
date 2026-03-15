@@ -9,7 +9,7 @@ containers](https://docker.io/).
 
  - This project is based on [cockpit-podman](https://github.com/cockpit-project/cockpit-podman), I ported as much as I could to the docker API, but not everything maps (e.g. pods) and not everything is ported yet.
 
-* Additional fixes:
+Additional fixes:
 - Container search added to cockpit-docker (PR #18 upstream)
 
 # Development dependencies
